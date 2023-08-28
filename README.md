@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+1 - Method : 
+
+You can visit directly to : https://weathy-app.vercel.app/
+
+2 - Method :
+
 First, run the development server:
 
 ```bash
